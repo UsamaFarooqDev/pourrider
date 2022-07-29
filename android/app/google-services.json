@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876736749064",
+    "project_id": "pourrider",
+    "storage_bucket": "pourrider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876736749064:android:e6a77a587b0a374254bbbd",
+        "android_client_info": {
+          "package_name": "com.example.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876736749064-8isf6cudo27lgfij05di4fcbhb4l1qac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riderapp",
+            "certificate_hash": "990da0b1b52f8ef7581e6e817bdfa5197fbc42c4"
+          }
+        },
+        {
+          "client_id": "876736749064-ql9lc89cs6516ferssa52itoq19it8ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9QMEBPQK9DTwClSnQDhHI4bpbCf56rR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876736749064-ql9lc89cs6516ferssa52itoq19it8ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
